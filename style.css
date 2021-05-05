@@ -1,0 +1,46 @@
+body{
+padding-top: 800px;
+margin: 0;
+    text-align: center;
+}
+profile{
+    width:400px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: 5px; solid:blue;
+    padding: 5px;
+}
+
+#welcome{
+position:absoloute;
+overflow:hidden;
+height:800px;
+colour:red;
+left:o;
+right:o;
+top:0;
+bottom:0;
+opacity:0.83px;
+baground-image:linear-gradient(pink,lavender,yellow);
+display;table;
+    width: 100px;
+    height: 100px;
+    z-index: 9;
+    font-weight: bold;
+    font-size:45px;
+}
+.inner{
+display: table-cell;
+position: relative;
+text-align: center;
+    vertical-align: center;
+}
+
+h1{
+    text-shadow:2px 2px #F855D8;
+    
+    
+
+    
+    
+    
